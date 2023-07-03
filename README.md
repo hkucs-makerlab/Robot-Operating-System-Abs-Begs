@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Robot Operating System (ROS) for Absolute Beginners:Robotics Programming Made Easy, Second Edition*](https://shorturl.at/ikuJ9)
+This repository accompanies *Robot Operating System (ROS) for Absolute Beginners:Robotics Programming Made Easy, Second Edition*
 
 [comment]: #cover
 ![Cover image1](cover_edition_2.jpg)
